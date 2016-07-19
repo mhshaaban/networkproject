@@ -55,7 +55,7 @@ var voronoi = d3.geom.voronoi()
     .y(function(d) { return d.y; })
     .clipExtent([[0, 0], [width, height]]);
 
-d3.json("readme.json", function(error, json) {
+d3.json("data.json", function(error, json) {
   if (error) throw error;
 
   force
