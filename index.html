@@ -82,7 +82,7 @@ d3.json("data.json", function(error, json) {
       .text(function(d) { return d.name; });
       
       var label = node.append("text")
-      .attr("dy", ".35em")
+      .attr("dx", ".35em")
       .text(function(d) { return d.rank; });
 
   var cell = node.append("path")
