@@ -1,41 +1,26 @@
 {
   "nodes": [
     {
-      "id": "ayyubid1",
       "name": "al-Salih Nejm al-Din Ayyub",
-      "rank": "sultan",
-      "period": "Ayyubid",
-      "reign": 1250,
-      "link": xx,
       "group": 1,    
     },
     {
-      "id": "bahrimamluk5",
       "name": "al-Zahir Baybars",
-      "rank": "sultan",
-      "period": "Bahri Mamluk",
-      "reign": 1250,
-      "link": xx,
       "group": 2,
     },
       {
-      "id": "bahrimamluk6",
       "name": "al-Mansur Qalawun",
-      "rank": "sultan",
-      "period": "Bahri Mamluk",
-      "reign": 1250,
-      "link": xx,
       "group": 2,
     },
 ],
   "links": [
     {
-      "source": "ayyubid1",
-      "target": "bahrimamluk5"
+      "source": "al-Salih Nejm al-Din Ayyub",
+      "target": "al-Zahir Baybars"
     },
     {
-      "source": "ayyubid1",
-      "target": "bahrimamluk6"
+      "source": "al-Salih Nejm al-Din Ayyub",
+      "target": "al-Zahir Baybars"
     },
 ]
 }
