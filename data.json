@@ -1,0 +1,26 @@
+{
+  "nodes": [
+    {
+      "id": "ayyubid1",
+      "name": "al-Salih Nejm al-Din Ayyub",
+      "rank": "sultan",
+      "period": "Ayyubid",
+      "reign": 1250,
+      "link": xx,
+    },
+    {
+      "id": "bahrimamluk5",
+      "name": "al-Zahir Baybars",
+      "rank": "sultan",
+      "period": "Bahri Mamluk",
+      "reign": 1250,
+      "link": xx,
+    },
+],
+  "links": [
+    {
+      "source": "ayyubid1",
+      "target": "bahrimamluk5"
+    },
+]
+}
