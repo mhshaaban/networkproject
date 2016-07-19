@@ -20,7 +20,11 @@
     },
     {
       "source": "al-Salih Nejm al-Din Ayyub",
+<<<<<<< HEAD
       "target": "al-Zahir Baybars"
+=======
+      "target": "al-Mansur Qalawun"
+>>>>>>> master
     },
 ]
 }
